@@ -1,0 +1,22 @@
+# Large Media & OS Images
+*.iso
+*.mp4
+*.m4a
+*.mov
+*.wav
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.venv/
+
+# Archives
+*.zip
+*.tar.gz
+*.whl
+
+# MacOS
+.DS_Store

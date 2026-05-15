@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "🕵️ G-AGENT (Core Tools)",
+			"path": "_g-agent"
+		},
+		{
+			"name": "📊 PROJECTS (Blueprints)",
+			"path": "projects"
+		},
+		{
+			"name": "🏗️ CORE (Implementation)",
+			"path": "core"
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "/home/hijack/miniconda3/envs/void-drone/bin/python",
+		"files.exclude": {
+			"**/.git": true,
+			"**/.DS_Store": true,
+			"**/__pycache__": true,
+			"**/*.pyc": true
+		},
+		"editor.fontSize": 14,
+		"editor.fontFamily": "Inter, Roboto, 'Courier New', monospace",
+		"workbench.colorCustomizations": {
+			"statusBar.background": "#1a1a1a",
+			"statusBar.foreground": "#00ff00",
+			"sideBar.background": "#0d0d0d"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"DataQuanta.vscode-kaggle-run",
+			"ms-python.python",
+			"ms-vscode-remote.remote-ssh"
+		]
+	}
+}
